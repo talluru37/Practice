@@ -3,7 +3,7 @@
 
 	<groupId>SampleCore</groupId>
 	<artifactId>SampleCore</artifactId>
-	<version>0.01-SNAPSHOT</version>
+	<version>0.01</version>
 	<packaging>jar</packaging>
 
 	<name>SampleCore</name>
@@ -102,7 +102,7 @@
 	<url>scm:git:git@github.com:talluru37/Practice.git</url>
 	<developerConnection>scm:git:git@github.com:talluru37/Practice.git</developerConnection> -->
 	
-		<tag>HEAD</tag>
+		<tag>SampleCore-0.01</tag>
 	</scm>
 	<issueManagement>
 		<system>gitHub</system>
